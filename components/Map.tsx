@@ -54,7 +54,7 @@ function LocateControl() {
       // ★ z-index を 9999 に指定して、確実に一番手前に持ってくる
       className="bg-white p-3 rounded-full shadow-lg border-2 border-gray-300 hover:bg-gray-100 absolute pointer-events-auto"
       style={{ 
-        bottom: '20px', 
+        bottom: '120px', 
         right: '20px', 
         zIndex: 9999, // ← これで勝てます
       }} 
